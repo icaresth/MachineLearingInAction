@@ -1,0 +1,7 @@
+Introduction for kNN
+
+1. Save the training data into the training dataset. (like brain to remember the data)
+2. Set k
+3. Set the method to calculate the distance between the predicted data (for test) and the training data
+4. Choose the closet kth training data
+5. Finish classifying by the probability distribution of the selected kth training data.
